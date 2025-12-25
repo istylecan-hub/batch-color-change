@@ -1,0 +1,5 @@
+{
+  "name": "ChromaThread - AI Fashion Recoloring",
+  "description": "Professional-grade fashion image recoloring engine for e-commerce. Maintains fabric texture and lighting while accurately changing garment colors.",
+  "requestFramePermissions": []
+}
